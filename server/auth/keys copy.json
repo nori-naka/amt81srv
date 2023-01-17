@@ -1,0 +1,107 @@
+{
+  "u1": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu7Zp/mHCl+EjSTE2KJew\nbA3c9SjDDKpmj6AsPKVViM3wM7/LWdRsYf6tf08XOSSgnAVNUT43gqcHvYNk+SDg\nRy00EHfe0u8GeesyUm0FPNIUro+fOyDnikV7TuM9D0RFFZ+Mjxd7ovmD74BkGik9\nUQCdB/iV3wU2OhJpbFhHxRg2UKzS+3U/zuKbpAZ6d65UMad8zXKtiKLN/BEwGjN7\n67FoGp0KdUgY48x1+MZSvGBz8ow1Ms1C1SvKkwD0LZRavAwBFUq2/WumcvtWEmnX\n1SByZXAmBujjnrcu/B89+e6cRkMtmPdJxHMLQhqb2oPnnmV+SNX0geZtgv5u68lz\n3wIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u2": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAseV/DZ5IPfrdrVQyujSh\noS0J+ci0iO0yvcjgZHRY4U9wwxihpOyLFt7YSfaXSkyD+faL3gGLJn4ITrit7yBo\nhQgVOIc6C6j431p9zoH7Yksw1w9+ISRQOz6TvwN3R2VJWH+svyDY9cbaBzCdJfO2\nASj41/kxDbq4Et25a/HhVP67lHsr8VqiEZJ2+tjB36/Wix/6+9PjefzmIy7m72Ej\nkNweWE8hb9rP3x15ETeDAuF6slzhkpG5pDnFusWfwwv5k7r4gR0Cj9suWMvNe6E0\nUy8Tpq8X8su45v0aJxcmbjv5e3QqIzTe9X2Ijjg0+ceEXmrayOrlv04j4rVq4Ou3\nrQIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u3": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1i44w8223W2YcZOPvibS\nDcF5hDvneFK2g8KqFF1M23HBePJmP6xFzmowvUziqG/VdLYMfpDsaOvJWXKPECkx\nd8asasGtT3ac1aTMPl28xeDzPjt6hAOfHKm+mXjrv6BklQYHE071jtOtZZn4OSEU\nc+2k27w60sge94g1Cjo/ksZRf77QW5vWIzsMDQPEHV6NFDeMKinq73vl4mVW2t62\ntFsImhQhPDjmFhwjEPBBiWXuGKP/0AEl8MzbGXgRotWDeLIGfK39c3IFhgtKVOYb\nyLOlazLNGgqFxnIwg6NVRfg2UOTGmqgBAfGcrZVmtJRaz2p2FeikQ9jvMOXLXizn\nVQIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u4": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA93y1t2JraXxouMYT5x5c\n+j6FHZBAiAc+O0Nm3NYjASZnprSPUTu850Ppv8fM4GN7jHywdjJl1unrTAoxnCin\nAZ1PeqsaSG3ugsUtuZTV6uYFg0BeAjU6UTqxlN6TEYFmedwNCsNF8IGwzgOVDPM7\nVYKUcKsscFvVn94ljIdWqvCBoWnbaIPSlv/Du2Wa0HcM0Oko+UlPJ5Dn7D/1S96C\nFMQD1VdmCc4YSxLJQomY+kyUgmbeTjvlUV8LbRavGzqor36MsimwjwoOjbRrgCIu\nVg3C08FAxkHdl2s11WK762j0uo85kBn6tAYRXuTOkBj63qF9sXoZmbporzTAE0eQ\nBQIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u5": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1tq73sxGjqRLJLilu98d\nB9gUSKxmrgdVmNl3qlLEQKC3oST1tkRt24NB8XM7KCkMZ/Cy/VwuTgmtxzPTyZJL\nzdQTXGjw7XObdQknmWDUGDfM5++qyX74pENy8k7tzBoVInlpxry/lSdFMnXBlAi1\nv6T/fl7a2iXx7zMA5qUSNtv8JC633tUutx4yardFyE3f2loCmGGffOE9vaWYw8ir\nHrIfQHw1aU2xR8xV6iYmFymrgxjNg4LkTzQRYIy2zodfehSz1L7LGs2lzb1YCfHT\nqbkdU2r6AfSk33cB6TGp1QsS1pCqi2aUz4+MeV6l+uwsfiL7IT5JK/G9Jl4t6tPR\nwQIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u6": {
+    "passsword": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u7": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFxJSvTC1ZCvUR4nt4vG\nN+T4iI2M6+2LMr23ANBAtszFUKn4h4+6hgAhHMXUQk5kz4iBxQZ8hbRdsKNwhxKV\nB5Vfq/kH2hDbAK1EWFNyLaCFaSVv8D/HfpWWPH6vpSNO2WGAPX73Hn0Wmz4QRg8V\nhbIEizkfqM4AttZ4+kk4gG3ke/pJr3FZDV80O06ygQvS1Dm+HUN63BWGGaH1+TH0\nwh7R4AGHp4kXtDE5GMYrKp3meDMRNWcquxYvk9GfHZthJ1KVCueyFRyORngTh52P\nBvlG/8hUeDaIiQ/4g9z28Og/C1hfxhtne85oR2I9V2sMpsitUNjIPZL/km+dl4t0\ntQIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u8": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u9": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u10": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u11": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u12": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u13": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u14": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u15": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u16": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u17": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u18": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "u19": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQLaGGWUarKu2OID9JJ9\n+BmX6lc58tvg+yEDwKhGAiFky+VGp9affzOnlLwFZu8EEtAyZau+cfw3MH57p1NM\nrYu/JSUgxxos4UiOANibNqus95vkw6ryBzm5KiwgJYKagzD07NvNFNQg2zK4O6Vi\nPHXGwjGckCvxtXsDel4jfXBQZIdlZWct2TtP1GQcQWaZgx4yTmZn6UPcs4Nq3OAV\nE/4WDYNs9cZgX/m1u2P0HITtREqv/pjrvS2hx1SuinpFiSSbu1jeVCzB7vLuYg7w\nkDBubrPF/jouwbD1A4Ri8f1MLoUb6lrFGVH18LaSd+VIR2I0qCtiF2nYLRb7PQCq\ncwIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "home"
+  },
+  "u20": {
+    "password": "jrc",
+    "publicKey": "",
+    "path": "home"
+  },
+  "test": {
+    "password": "jrc",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvkXO+ut2iA7kfvcCrnHe\nPFWMI6P5GZ/vfdh1D1ein/9uwVWBjfqyXXbNw90FxLYj8SGtJjOMZrHuY8wX8WeL\nOs5U+vXD5r+sC2ZlUe3bLlBZggVccAUmwr3sZtAf8O7tqBy/2nAZQWWqjJ0Fb2IY\n4IpWLVmEi0Zq4a7McrLlj47cfSs09vNKZCzxs5+yv47QE32xACCx3gNv+9u2wrhI\nq37rVrPkK8tIfMJxcvhrGKyqS4N+wC3pl49qcEZ/3EeCPTriDu+aCI9nX7xOiEdw\nMhv0O5rWB0+l4cYMy/qQ1ArabdP/pQp+4L1XyXDvjmQpeftUcQmbrKqxu9VEATvH\nEwIDAQAB\n-----END PUBLIC KEY-----",
+    "path": "review"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "development": {
+    "storage": "data/sequelize.db",
+    "dialect": "sqlite",
+    "define": {
+      "timestamps": false,
+      "underscored": true,
+      "underscoredAll": true
+    }
+  },
+  "production": {
+    "storage": "data/sequelize.db",
+    "dialect": "sqlite",
+    "define": {
+      "timestamps": false,
+      "underscored": true,
+      "underscoredAll": true
+    }
+  }
+}

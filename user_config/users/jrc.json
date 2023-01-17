@@ -1,0 +1,20 @@
+{
+  "user_type": "amt",
+  "user_id": "00005",
+  "user_name": "川越",
+  "user_full_name": "川越",
+  "company_id": "kawagoe",
+  "company_name": "日本無線",
+  "group_id": 1,
+  "volume": 1,
+  "gps_timeout_ms": 30000,
+  "default_lng": 139.525469,
+  "default_lat": 35.879894,
+  "logMode": 2,
+  "logLevel": 0,
+  "myIcon": 99,
+  "track_point": 12000,
+  "center_trace": 0,
+  "fixed_pos": 1,
+  "memo_downloadable": 1
+}

@@ -1,0 +1,23 @@
+{
+  "user_type": "amt",
+  "user_id": "00126",
+  "user_name": "ユーザ26",
+  "user_full_name": "ユーザ26",
+  "company_id": "JRC",
+  "company_name": "日本無線",
+  "group_id": 1,
+  "volume": 1,
+  "gps_timeout_ms": 30000,
+  "default_lng": 127.748652,
+  "default_lat": 26.248101,
+  "logMode": 2,
+  "logLevel": 0,
+  "myIcon": 2,
+  "track_point": 12000,
+  "center_trace": 1,
+  "gps_server": "",
+  "memo_classify": "交通",
+  "color_picker": "chrome",
+  "tel_type": 0,
+  "tel_code": 0
+}

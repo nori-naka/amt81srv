@@ -1,0 +1,53 @@
+{
+  "stun_server": [
+    {
+      "urls": [
+        "stun:stun.l.google.com:19302",
+        "stun:stun1.l.google.com:19302"
+      ]
+    },
+    {
+      "urls": "turn:20.48.4.132:3478",
+      "username": "test",
+      "credential": "test"
+    }
+  ],
+  "tiles_url": "https://{a-c}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "map_urls": [
+    "https://disaportaldata.gsi.go.jp/raster/01_flood_l2_shinsuishin_kuni_data/{z}/{x}/{y}.png",
+    "https://disaportaldata.gsi.go.jp/raster/05_dosekiryukikenkeiryu/{z}/{x}/{y}.png"
+  ],
+  "video_width": "640",
+  "video_frame": "30",
+  "video_rate": "500000",
+  "video_encode": "video/VP9",
+  "video_encode_hints": ["video/VP8", "video/rtx", "video/H264", "video/AV1", "video/VP9", "video/red", "video/ulpfec"],
+  "callrec": true,
+  "callrec_display": false,
+  "ptt_type": "webrtc",
+  "ptt_type_hints": ["webrtc", "callrec"],
+  "speech_recognition": false,
+  "check_connection_period": 20000,
+  "group": [
+    {
+      "group_id": 1,
+      "group_name": "グループ１"
+    },
+    {
+      "group_id": 2,
+      "group_name": "グループ２"
+    },
+    {
+      "group_id": 3,
+      "group_name": "グループ３"
+    }
+  ],
+  "sip_server": [
+    {
+      "address": "192.168.86.44",
+      "ws_port": "8089",
+      "expires": "600"
+    }
+  ],
+  "memo_downloadable": 0
+}

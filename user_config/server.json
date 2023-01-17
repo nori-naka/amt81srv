@@ -1,0 +1,9 @@
+{
+  "default_memo_class": ["交通", "保全", "緊急"],
+  "track_data_ttl_ms": 86400000,
+  "track_del_interval_ms": 3600000,
+  "logger_zipped_archive": true,
+  "logger_max_files": "30d",
+  "logger_level": "debug",
+  "origin": ["https://localhost:3000", "https://4nbx6j.csb.app"]
+}

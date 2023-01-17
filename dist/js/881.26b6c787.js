@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkamt81"]=self["webpackChunkamt81"]||[]).push([[881],{20881:function(e,r,n){n.r(r),n.d(r,{default:function(){return a}});var t=n(96813),u=n(57644);class a extends u.Z{decodeBlock(e){return(0,t.rr)(new Uint8Array(e)).buffer}}}}]);
+//# sourceMappingURL=881.26b6c787.js.map

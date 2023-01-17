@@ -1,0 +1,28 @@
+{
+  "user_type": "no_amt",
+  "user_id": "1061",
+  "user_name": "固定局１",
+  "user_full_name": "固定局１",
+  "company_id": "okinawa",
+  "company_name": "Nexco 沖縄",
+  "group_id": 1,
+  "volume": 1,
+  "default_lng": 127.77,
+  "default_lat": 26.25,
+  "logMode": 2,
+  "logLevel": 0,
+  "myIcon": 99,
+  "track_point": 12000,
+  "center_trace": 0,
+  "fixed_pos": 1,
+  "color_picker": "chrome",
+  "ptt_keycode": "0x20",
+  "tel_type": 1,
+  "tel_code": 1061,
+  "sip": [
+    {
+      "user_name": "1061",
+      "password": "password"
+    }
+  ]
+}

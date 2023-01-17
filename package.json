@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "events": "^3.3.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "http": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.5.4",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

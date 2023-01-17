@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "data\\log\\.009897a568f73baaeea369fa8580ce30b18ad9d6-audit.json",
+    "files": [
+        {
+            "date": 1672021750275,
+            "name": "data\\log\\AirMultitalk20221226.log",
+            "hash": "9344372999405f1cfcd6f561937d3d8e3da53fb28197b70644dc95978e8af5cd"
+        },
+        {
+            "date": 1673935119005,
+            "name": "data\\log\\AirMultitalk20230117.log",
+            "hash": "005dbdb588b9045dd7366f4c118941f81b5c0ba81e2b9fa35a333512b6f6d1f6"
+        }
+    ],
+    "hashType": "sha256"
+}
