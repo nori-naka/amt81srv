@@ -23,7 +23,7 @@
   "video_encode": "video/VP9",
   "video_encode_hints": ["video/VP8", "video/rtx", "video/H264", "video/AV1", "video/VP9", "video/red", "video/ulpfec"],
   "callrec": true,
-  "callrec_display": false,
+  "callrec_display": true,
   "ptt_type": "webrtc",
   "ptt_type_hints": ["webrtc", "callrec"],
   "speech_recognition": false,
