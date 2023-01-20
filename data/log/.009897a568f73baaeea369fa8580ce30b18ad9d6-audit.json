@@ -14,6 +14,16 @@
             "date": 1673935119005,
             "name": "data\\log\\AirMultitalk20230117.log",
             "hash": "005dbdb588b9045dd7366f4c118941f81b5c0ba81e2b9fa35a333512b6f6d1f6"
+        },
+        {
+            "date": 1674101500457,
+            "name": "data\\log\\AirMultitalk20230119.log",
+            "hash": "429916476d634521230216de2dcb0bc2c5bf36248dc0f41a30b3ac05f8d64cc6"
+        },
+        {
+            "date": 1674190776254,
+            "name": "data\\log\\AirMultitalk20230120.log",
+            "hash": "743d8174802b6bcc38554c0ac44b29518ae9370a6c6d336cafeb5557b23598a5"
         }
     ],
     "hashType": "sha256"
