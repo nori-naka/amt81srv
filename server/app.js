@@ -259,6 +259,10 @@ app.use("/memo", express.static(memo_path));
 // 音声データ
 app.use("/callrec", express.static(callrec_path));
 
+app.get("/Regist*", (req, res) => {
+  res.sendFile("/dist/index.html");
+})
+
 // https通信のアライブチェック
 // app.get("/api/httpsalive", admin.httpsalive);
 
