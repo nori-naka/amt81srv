@@ -6,29 +6,9 @@
     "auditLog": "data\\log\\.009897a568f73baaeea369fa8580ce30b18ad9d6-audit.json",
     "files": [
         {
-            "date": 1672021750275,
-            "name": "data\\log\\AirMultitalk20221226.log",
-            "hash": "9344372999405f1cfcd6f561937d3d8e3da53fb28197b70644dc95978e8af5cd"
-        },
-        {
-            "date": 1673935119005,
-            "name": "data\\log\\AirMultitalk20230117.log",
-            "hash": "005dbdb588b9045dd7366f4c118941f81b5c0ba81e2b9fa35a333512b6f6d1f6"
-        },
-        {
-            "date": 1674101500457,
-            "name": "data\\log\\AirMultitalk20230119.log",
-            "hash": "429916476d634521230216de2dcb0bc2c5bf36248dc0f41a30b3ac05f8d64cc6"
-        },
-        {
-            "date": 1674190776254,
-            "name": "data\\log\\AirMultitalk20230120.log",
-            "hash": "743d8174802b6bcc38554c0ac44b29518ae9370a6c6d336cafeb5557b23598a5"
-        },
-        {
-            "date": 1674228678266,
-            "name": "data\\log\\AirMultitalk20230121.log",
-            "hash": "37fea837a26139e4d1b2226bca683e325ffb3f78f04a70e3a8cc3bf74f825fdf"
+            "date": 1674369503651,
+            "name": "data\\log\\AirMultitalk20230122.log",
+            "hash": "b41110abf8f9f5e4d9a310be2f4c4fd9f998d3f9350628b425cb2fc25e020bc7"
         }
     ],
     "hashType": "sha256"
