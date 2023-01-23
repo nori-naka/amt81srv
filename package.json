@@ -1,6 +1,6 @@
 {
   "name": "airmultitalk",
-  "version": "1.2.11",
+  "version": "81",
   "private": true,
   "scripts": {
     "start": "node app.js"
