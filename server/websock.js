@@ -28,19 +28,19 @@ const { on_chat_msg } = require("./chat");
 // // 軌跡データの削除周期[ms]
 // const track_del_interval = config.track_del_interval_ms;
 
-let socket_a = [];
-// サーバーの更新にあわせてファイルを更新
-exports.all_logout = async function(req, res) {
-  try {
-    for (let i = 0; i < socket_a.length; i++) {
-      socket_a[i].emit("unauthorized", { reason: "logoutAPI" });
-    }
-    res.status(200).end();
-  } catch (err) {
-    console.log(err);
-    res.status(500).end();
-  }
-};
+// let socket_a = [];
+// // サーバーの更新にあわせてファイルを更新
+// exports.all_logout = async function(req, res) {
+//   try {
+//     for (let i = 0; i < socket_a.length; i++) {
+//       socket_a[i].emit("unauthorized", { reason: "logoutAPI" });
+//     }
+//     res.status(200).end();
+//   } catch (err) {
+//     console.log(err);
+//     res.status(500).end();
+//   }
+// };
 
 // module.exports = function(server) {
 const websock = async server => {
